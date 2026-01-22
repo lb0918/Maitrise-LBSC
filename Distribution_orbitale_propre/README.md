@@ -4,8 +4,7 @@ Le présent dossier contient les résultats/script/figures pertinent(e)s, décou
 
 J'ai également mis les résultats en lien avec la description d'autres matériaux que ceux présentés dans l'article, autant dans l'état normal que supraconducteur. La majorité des résultats du BSCCO, LCO, YBCO et NCCO sont issus de ma maîtrise, alors que pour les autres matériaux les résultats ont, en grand majorité, été obtenus lors de mon stage avec David Sénéchal en 2022.
 --------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------
+
 
 
 
